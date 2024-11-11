@@ -1,6 +1,6 @@
 # laravel_inicio
 
- <h1> Iniciando en Laravel proceso
+ <h1> Iniciando en Laravel proceso </h1>
 
  Despues de instalar lo necesario, xampp, laravel, jet con la terminal.
 
